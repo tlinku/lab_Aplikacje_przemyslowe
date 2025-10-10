@@ -1,0 +1,1 @@
+# laboratoria_Aplikacje_przemys-owe
