@@ -1,7 +1,8 @@
-package org.example.lab01;
+package org.example.lab01.service;
 
-import org.example.lab01.Employee;
-import org.example.lab01.Position;
+import org.example.lab01.model.Employee;
+import org.example.lab01.model.Position;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

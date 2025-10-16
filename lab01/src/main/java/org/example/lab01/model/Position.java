@@ -1,4 +1,4 @@
-package org.example.lab01;
+package org.example.lab01.model;
 
 public enum Position {
     PREZES(25000, 1),

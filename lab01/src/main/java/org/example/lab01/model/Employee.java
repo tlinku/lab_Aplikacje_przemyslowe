@@ -1,4 +1,5 @@
-package org.example.lab01;
+package org.example.lab01.model;
+
 import java.util.Objects;
 
 public class Employee {
