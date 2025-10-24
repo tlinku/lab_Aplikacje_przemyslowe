@@ -5,7 +5,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonSyntaxException;
-import exception.ApiException;
+import org.example.lab01.exception.ApiException;
 import org.example.lab01.model.Employee;
 import org.example.lab01.model.Position;
 import org.springframework.stereotype.Service;
